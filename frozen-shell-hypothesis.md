@@ -34,16 +34,40 @@ This paper will present the hypothesis in detail, exploring its theoretical basi
 ## **2. Theoretical Framework**
 
 ### **2.1 Gravitational Collapse and Time Dilation**
-When a massive star exhausts its nuclear fuel, gravitational collapse begins. The star's core, no longer supported by radiation pressure, succumbs to its own gravity. Depending on the mass of the progenitor star:
-- **Low Mass:** The core becomes a **white dwarf**.
-- **Intermediate Mass:** It forms a **neutron star**.
-- **High Mass:** Gravitational forces overcome all known counteracting pressures, leading to **black hole formation**.
 
-During this collapse, **gravitational time dilation** becomes extreme near the core. Time slows down progressively with increasing gravitational potential, and eventually:
-- At a critical gravitational threshold, **time stops** completely from an external observer’s perspective.
+When a **massive star exhausts its nuclear fuel**, gravitational collapse begins. The star's core, no longer supported by **radiation pressure from nuclear fusion**, succumbs to its own gravity. The outcome of this collapse depends on the **mass of the progenitor star**:
 
-This state marks the birth of what we define as the **0-Time-Barrier**.
+- **Low Mass Stars:**
+   - Stars with masses below the **Chandrasekhar limit** (approximately 1.4 times the mass of our Sun) do not undergo a violent collapse.
+   - The core stabilizes as a **white dwarf**, supported by **electron degeneracy pressure**.
 
+- **Intermediate Mass Stars:**
+   - Stars with masses above the Chandrasekhar limit but below the **Tolman-Oppenheimer-Volkoff (TOV) limit** (approximately 2–3 solar masses) undergo a **supernova explosion**.
+   - In these stars, gravitational collapse leads to the formation of a **neutron star**, stabilized by **neutron degeneracy pressure**.
+   - The supernova occurs because the **outward pressure from the shockwave** created during core collapse exceeds the gravitational pull, resulting in a **massive outward explosion** that disperses the outer layers of the star into space.
+
+- **High Mass Stars:**
+   - Stars with masses exceeding the TOV limit have gravitational forces so intense that **no known force can halt the collapse**.
+   - Degeneracy pressures (from electrons or neutrons) are insufficient to stop the inward gravitational pull.
+   - Collapse continues until a **black hole forms**, marking the point where **gravitational time dilation becomes infinite**.
+
+---
+
+#### **Time Dilation Near the Core**
+
+As the **core collapses**, gravitational time dilation—predicted by **Einstein's General Theory of Relativity**—becomes extreme. Time slows down progressively with increasing gravitational potential as mass becomes more compacted.
+
+At a critical gravitational threshold:
+- **Time stops completely** from an **external observer’s perspective**.
+- This marks the formation of what we define as the **0-Time-Barrier**.
+
+This threshold represents a **causal boundary** where no information, light, or signal can escape or cross outward.
+
+---
+
+#### **Key Insight:**
+- In **Intermediate Mass Stars**, the balance between outward shockwave pressure and gravitational collapse leads to a **supernova explosion**, leaving behind a **neutron star**.
+- In **High Mass Stars**, gravitational collapse continues unhindered, leading to the formation of the **0-Time-Barrier** and ultimately a **black hole**.
 ---
 
 ### **2.2 Definition of the 0-Time-Barrier**
