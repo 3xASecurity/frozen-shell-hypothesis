@@ -1,6 +1,6 @@
 # **The Frozen Shell Hypothesis of Black Holes**
 
-Welcome to the **Frozen Shell Hypothesis of Black Holes** GitHub paxe for exploration and discussions.
+Welcome to the **Frozen Shell Hypothesis of Black Holes** GitHub page for exploration and discussions.
 
 At this stage, this hypothesis is purely an **exploration of ideas**—a thought experiment taken to its logical conclusions. It should **not** be interpreted as a claim of truth, nor does it aim to challenge established scientific consensus.
 
