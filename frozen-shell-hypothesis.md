@@ -324,8 +324,8 @@ $$
 $$
 
 Where:
-  - \( \Delta x \) is the uncertainty in position.
-  - \( \Delta p \) is the uncertainty in momentum.
+  - $$\Delta x$$ is the uncertainty in position.
+  - $$\Delta p$$ is the uncertainty in momentum.
 
 As a particle approaches the **0-Time-Barrier**:
 
