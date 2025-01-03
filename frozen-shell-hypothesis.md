@@ -390,10 +390,6 @@ This mechanism invites further theoretical exploration:
 
 ---
 
-This section resolves the classical paradox of infinite time by introducing a **quantum probabilistic perspective**, showing how particles can effectively "integrate" into the 0-Time-Barrier despite the constraints of gravitational time dilation.
-
----
-
 ## **9. Observational Predictions**
 
 This hypothesis could end up being non-falsifiable, and for such reason useless as scientific proof.
